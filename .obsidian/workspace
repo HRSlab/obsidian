@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
+            "file": "docs/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1ddf44714cb05ba1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "docs/README.md"
               }
             }
           },
@@ -162,11 +174,12 @@
   },
   "active": "8d050a3ecce36986",
   "lastOpenFiles": [
-    "test.md",
-    "testing.md",
+    "docs/README.md",
+    "docs/index.md",
+    "docs/2022-03-24.md",
+    "docs/test.md",
+    "docs/testing.md",
     "Kanban senza titolo.md",
-    "Demo Template.md",
-    "README.md",
-    "2022-03-24.md"
+    "docs/Demo Template.md"
   ]
 }
