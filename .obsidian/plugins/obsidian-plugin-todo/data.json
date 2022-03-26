@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-MM-dd",
+  "dateFormat": "dd-MM-yyyy",
   "dateTagFormat": "#%date%",
   "openFilesInNewLeaf": true
 }

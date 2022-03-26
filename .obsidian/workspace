@@ -7,9 +7,19 @@
         "id": "8d050a3ecce36986",
         "type": "leaf",
         "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Kanban senza titolo.md"
+          }
+        }
+      },
+      {
+        "id": "ad4337ddaf1f34d5",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/reinnovame.md",
             "mode": "source",
             "source": false
           }
@@ -27,20 +37,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32bb35036a52bccf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "99adfbf35ed289cf",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag3",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,6 +56,20 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9c9a36d4c14190dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32bb35036a52bccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
               "state": {}
             }
           }
@@ -77,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/reinnovame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/reinnovame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/reinnovame.md"
               }
             }
           },
@@ -126,14 +142,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "26fabc0693694987",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           },
@@ -152,22 +160,31 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "25a5d1ceea6266e7",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8d050a3ecce36986",
+  "active": "ad4337ddaf1f34d5",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/test.md",
-    "docs/README.md",
-    "docs/testing.md",
+    "docs/reinnovame.md",
     "docs/2022-03-24.md",
+    "docs/testing.md",
     "Kanban senza titolo.md",
-    "docs/Demo Template.md"
+    "docs/Demo Template.md",
+    "docs/test.md",
+    "docs/index.md",
+    "docs/README.md"
   ]
 }
