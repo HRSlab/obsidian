@@ -3,7 +3,7 @@
 [[test]]
 
 [[testing]]
-[[Kanban senza titolo]]
+[[Board]]
 
-![Note number one]()
+[[Note Number One]]
 

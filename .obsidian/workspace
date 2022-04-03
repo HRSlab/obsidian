@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8d050a3ecce36986",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban senza titolo.md"
-          }
-        }
-      },
-      {
-        "id": "ad4337ddaf1f34d5",
+        "id": "3375a3c65153c111",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/reinnovame.md",
+            "file": "Piante/Aloe Vera.md",
             "mode": "source",
             "source": false
           }
@@ -35,22 +25,8 @@
       {
         "id": "a4180e090b8f4d29",
         "type": "tabs",
+        "dimension": 79.65412004069175,
         "children": [
-          {
-            "id": "99adfbf35ed289cf",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "dd406a0cb8bb1459",
             "type": "leaf",
@@ -58,19 +34,36 @@
               "type": "starred",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "9c9a36d4c14190dd",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "32bb35036a52bccf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "38ec378a5434d777",
+        "type": "tabs",
+        "dimension": 20.345879959308242,
+        "children": [
+          {
+            "id": "99adfbf35ed289cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Aucuba",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/reinnovame.md",
+                "file": "Piante/Aloe Vera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +103,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/reinnovame.md",
-                "linksCollapsed": false,
+                "file": "Piante/Aloe Vera.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/reinnovame.md"
+                "file": "Piante/Aloe Vera.md"
               }
             }
           },
@@ -162,7 +155,7 @@
             }
           },
           {
-            "id": "25a5d1ceea6266e7",
+            "id": "f6ae69918e79ee86",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
@@ -176,15 +169,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ad4337ddaf1f34d5",
+  "active": "3375a3c65153c111",
   "lastOpenFiles": [
-    "docs/reinnovame.md",
-    "docs/2022-03-24.md",
-    "docs/testing.md",
-    "Kanban senza titolo.md",
-    "docs/Demo Template.md",
-    "docs/test.md",
-    "docs/index.md",
-    "docs/README.md"
+    "Piante/Aloe Vera.md",
+    "Piante/Acucuba japonica.md",
+    "Piante/Coffea arabica.md",
+    "Piante/Skimmia Japonica.md",
+    "Piante/Tulipa gesneriana.md",
+    "Piante/Indice Piante.md",
+    "Piante/Euonymus fortunei.md",
+    "Piante/Spathiphillum wallisii.md",
+    "Piante/Sanseveria trifasciata.md",
+    "Piante/Epipremnum aureum.md"
   ]
 }

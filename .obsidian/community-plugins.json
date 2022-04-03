@@ -4,5 +4,7 @@
   "obsidian-kanban",
   "obsidian-git",
   "obsidian-admonition",
+  "templater-obsidian",
+  "open-vscode",
   "obsidian-plugin-todo"
 ]

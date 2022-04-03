@@ -17,10 +17,10 @@ background: #bada55 !important;
 ```
 ---
 
-| title table            | title table          |
-| ---------------------- | -------------------- |
+|      title table       |     title table      |
+|:----------------------:|:--------------------:|
+|           ok           |        not ok        |
 | this is item table one | this is item table 2 |
-| ok                     | not ok               |
 
 ---
 

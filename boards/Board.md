@@ -6,15 +6,23 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] [[my new card]] ^pqt79d
 
 
 ## In Progress
 
+- [x] [[Testing Card]]
 
 
 ## In Review
 
-- [ ] [[test]]
+- [ ] [[another kamban]]
+
+
+## Done
+
+**Completato**
+- [x] [[test]]
 
 
 
