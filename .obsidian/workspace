@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Piante/Aloe Vera.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": false
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piante/Aloe Vera.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piante/Aloe Vera.md",
+                "file": "docs/index.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piante/Aloe Vera.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "3375a3c65153c111",
   "lastOpenFiles": [
+    "docs/index.md",
     "Piante/Aloe Vera.md",
     "Piante/Acucuba japonica.md",
     "Piante/Coffea arabica.md",
@@ -179,7 +180,6 @@
     "Piante/Indice Piante.md",
     "Piante/Euonymus fortunei.md",
     "Piante/Spathiphillum wallisii.md",
-    "Piante/Sanseveria trifasciata.md",
-    "Piante/Epipremnum aureum.md"
+    "Piante/Sanseveria trifasciata.md"
   ]
 }
