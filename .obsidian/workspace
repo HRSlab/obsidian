@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c90fa67a8f649aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "3375a3c65153c111",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4968bb64b5594b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4180e090b8f4d29",
+        "type": "tabs",
+        "dimension": 79.65412004069175,
+        "children": [
+          {
+            "id": "dd406a0cb8bb1459",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "32bb35036a52bccf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "38ec378a5434d777",
+        "type": "tabs",
+        "dimension": 20.345879959308242,
+        "children": [
+          {
+            "id": "99adfbf35ed289cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Aucuba",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc4d95b5e32d6e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ddc485f6584d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06a56045bbc3d30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "161414570168c20d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca017de5e6a5f30c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60a9b34809ceca63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4926aca0badc834c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5b9cdaaf0a28d90",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4977ad023434bfb5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6ae69918e79ee86",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3375a3c65153c111",
+  "lastOpenFiles": [
+    "piante/Acucuba japonica.md",
+    "piante/Aloe Vera.md",
+    "piante/Coffea arabica.md",
+    "piante/Fittonia albivenis.md",
+    "docs/index.md",
+    "piante/Skimmia Japonica.md",
+    "piante/Tulipa gesneriana.md",
+    "piante/index.md",
+    "piante/Euonymus fortunei.md",
+    "piante/Spathiphillum wallisii.md"
+  ]
+}
